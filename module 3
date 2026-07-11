@@ -49,3 +49,75 @@ Fairness: Does this action treat all customer groups equitably?
 Anticipated ROI: What is the expected return on investment for this action?
 Alignment with business goals: How does this action support Geldium's overall strategy?
 Evidence from the data: How does the data support the effectiveness of this action?
+
+Best practices for presenting AI-driven insights to stakeholders
+When you're presenting AI-driven insights, your job is not to showcase everything the model did — it’s to clearly communicate what the business needs to know and what they can do with it. Especially in roles like an AI transformation consultant, success depends on your ability to translate complex outputs into simple, relevant, and actionable messages.
+
+Think of yourself as a strategic interpreter between the model and the business.
+
+Here are the best practices to guide your communication:
+
+Know your audience
+Geldium’s Head of Collections doesn’t need to know how the model was trained. They want to know what it means for customer risk and what to do next. Focus on what matters to their priorities: risk reduction, customer fairness, and operational efficiency.
+ 
+
+Lead with what matters most
+Avoid burying your main points under technical details. Put your most important insights up front. This could be:
+
+Which customer segment is most at risk
+What intervention is recommended
+What impact the model could have if applied
+ 
+Use clear, structured language
+Avoid jargon. Frame your message using clear, accessible terms. When referencing model outputs, pair any technical term with a plain-language explanation.
+Example: “Our model shows a high correlation between missed payments and income volatility, suggesting that outreach should prioritise lower-income segments.”
+ 
+
+Use effective visualizations:
+Use clear and concise visualizations (e.g., charts, graphs, tables) to support your insights.
+Choose the right visualization type for the data you are presenting (e.g., bar charts for comparisons, line graphs for trends).
+
+Anticipate business concerns
+Be prepared to address:
+
+How reliable the prediction is
+Whether the recommendation is fair
+What the downside risk might be
+How this fits within current operations
+The model's accuracy in predicting delinquency for specific customer segments
+The potential impact of recommendations on customer relationships
+The feasibility of implementing the proposed interventions
+
+Focus on action and impact
+A good presentation doesn’t just explain the insight — it prompts a decision. Your role is to help the stakeholder see how the data informs a smart next step.
+
+Considerations for ethical AI, bias, explainability, and responsible decision-making
+AI-powered tools can improve decision-making, but they can also introduce risks, especially in sensitive areas like credit and collections. As an AI transformation consultant, you're not only responsible for what a model predicts but also how those predictions are used and understood.
+
+Before presenting or recommending any model-driven action, it's important to consider three key areas.
+
+1. Bias
+Bias occurs when a model systematically favors or disadvantages certain customer groups. It can stem from historical data, incomplete records, or variables that act as unintended proxies for protected characteristics (like age, gender, or socioeconomic status).
+
+Example: If most of your training data is from high-income urban customers, your model may misjudge risk for rural or lower-income groups.
+
+Ask yourself:
+
+Did the model perform consistently across all demographics?
+Could any input variables reinforce historical inequality?
+2. Explainability
+Stakeholders must be able to understand why a model made a prediction, especially if it affects customer treatment. This is critical for trust, compliance, and accountability.
+
+Simpler models such as decision trees or logistic regression offer clearer reasoning, while more complex models like neural networks may require tools like SHAP to explain predictions.
+
+Tip: When in doubt, choose transparency over complexity, especially when decisions carry financial consequences.
+
+3. Responsible decision-making
+Even if a model is accurate, you need to consider how its outputs will be used in practice. A good recommendation isn’t just fair and explainable; it’s also context-aware and aligned with the company’s values and regulations.
+
+Ask:
+
+Is the recommended action proportionate to the risk?
+Does it consider customer experience and long-term trust?
+Would I feel confident explaining this approach to a customer?
+By embedding these ethical checks into your analysis, you help ensure that AI-powered insights drive not only effective but also fair and responsible business outcomes.
