@@ -1,0 +1,65 @@
+Here is your task
+Before any predictive modeling can take place, it’s crucial to ensure that the dataset you’re working with is complete, accurate, and free of inconsistencies. 
+
+In this task, you will conduct an EDA on Geldium’s dataset to help Tata iQ’s analytics team and Geldium’s decision-makers understand the current state of their data. Your analysis will shape how the company refines its delinquency risk model and improves its intervention strategies.
+
+Here are the steps:
+
+Step 1: Review the dataset and identify key insights
+Before predictive modeling can begin, it’s essential to understand the dataset’s structure and assess its quality. In this first step, you'll examine Geldium’s dataset to spot any issues and identify early risk indicators.
+
+What to do:
+
+Open the dataset and review the key columns. Use the Dataset Description Guide to understand what each variable represents.
+Use a GenAI tool (like ChatGPT or DeepSeek) to help quickly summarize the dataset and highlight potential issues.
+Think about what insights you need from GenAI. What questions would help you explore the dataset effectively? If needed, refer to Section 5 (Key Steps in Conducting EDA) for examples of AI prompts—but feel free to modify them or create your own! For additional guidance on structuring AI prompts, check out this article on prompt engineering techniques.
+Identify missing or inconsistent data that could skew your analysis (e.g., missing payment history, unusual credit utilization rates).
+Detect early risk indicators. Which variables might be most relevant for predicting delinquency?
+Prompts to try:
+
+Summarize key patterns, outliers, and missing values in this dataset. Highlight any fields that might present problems for modeling delinquency.
+Identify the top 3 variables most likely to predict delinquency based on this dataset. Provide brief reasoning.
+Action: 
+
+Document your findings in bullet points for your report. Focus on:
+
+Notable missing or inconsistent data
+Key anomalies
+Early indicators of delinquency risk
+Then, write a short paragraph (3–5 sentences) summarizing your initial data quality observations.
+
+Step 2: Address missing data and data quality issues
+Now that you've identified gaps, it’s time to decide how to handle missing data to maintain accuracy.
+
+What to do:
+
+Identify gaps or missing values in critical features (e.g., payment history, income, credit utilization).
+Determine the best treatment approach for each case:
+Remove: Drop columns with excessive missing data.
+Impute: Fill in missing values using mean, median, or predictive modeling.
+Generate synthetic data: Use AI tools to create realistic values while maintaining fairness and distribution patterns.
+Use GenAI to assist with suggesting strategies as well as automating parts of the imputation process
+Prompts to try:
+
+Suggest an imputation strategy for missing values in this dataset based on industry best practices.
+Propose best-practice methods to handle missing credit utilization data for predictive modeling.
+Generate realistic synthetic income values for missing entries using normal distribution assumptions.
+Action: Create a simple table listing 2–3 missing data issues. For each one, include your chosen handling method and a one-line justification for why you selected it.
+
+Step 3: Detect patterns and risk factors
+With a cleaned dataset, your next goal is to uncover patterns and key risk factors that influence delinquency.
+
+What to do:
+
+Analyze relationships between variables and delinquency outcomes (e.g., is high credit utilization associated with missed payments?).
+Use GenAI tools to help surface insights and prioritize key variables.
+Highlight any unexpected findings that may require further investigation by the analytics team.
+Document key risk indicators and any insights that could impact delinquency prediction. Include patterns that seem obvious as well as any surprising trends that might need deeper investigation.
+Action: List high-risk indicators, each with a one-sentence explanation of why it’s important, as well as any insights that could impact delinquency prediction.
+
+Step 4: Submit your EDA report
+Using the template provided, prepare a brief report summarizing your findings:
+Key patterns and anomalies detected in the dataset.
+A summary of missing values and how they were handled.
+Risk indicators that may impact delinquency predictions.
+Deliverable: Submit a Word or PDF file of your report below.
