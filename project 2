@@ -1,0 +1,56 @@
+Here is your task
+Your job is to translate your predictive findings into a clear, stakeholder-ready report for Geldium’s Head of Collections. This report will be used to inform the team’s next steps and shape how they apply AI insights in their decision-making.
+
+Follow the structure below to build your report.
+
+Step 1: Summary of predictive insights
+Use insights from your EDA (Task 1) and the structured predictive model framework (Task 2) to explain: 
+
+What key customer segments are at high risk of delinquency
+Which variables most strongly influence delinquency
+Refer to the Dataset and Dataset Description Guide (from Task 1) to support your insights with relevant examples or field references.
+
+Prompts to try:
+
+Summarize top predictors of customer delinquency based on dataset analysis.
+Identify customer segments with the highest delinquency risk and explain why.
+Action: Create a simple 3-bullet list of "Top 3 Risk Factors" for easy communication.
+
+Step 2: Recommendation framework
+
+Choose one key insight and turn it into a SMART business recommendation. Think through:
+
+What action the business could take based on this insight
+What action would be most effective, feasible, and aligned with Geldium’s goals?
+How you would explain the recommendation to stakeholders
+Use the SMART approach to shape your recommendation and prepare a short rationale as to why it’s the right fit. You can use GenAI to help structure your ideas.
+
+Prompts to try:
+
+Turn this insight — 'High credit utilization increases delinquency' — into a SMART business recommendation.
+Draft an executive summary explaining why this recommendation will reduce delinquency and align with business objectives.
+Action: Write one SMART goal and a 1–2 sentence explanation for stakeholders.
+
+Step 3: Ethical and responsible AI considerations
+Outline a brief ethics section, covering:
+
+Any fairness or bias concerns your model or recommendation might raise
+How you would explain the model’s predictions to non-technical stakeholders
+How your approach promotes responsible and transparent AI use
+Prompts to try:
+
+List two fairness risks for a financial risk prediction model and suggest mitigation strategies.
+How would you explain AI model predictions in plain language to non-technical stakeholders?
+Action: List two fairness risks and how you would mitigate them.
+
+Step 4:  Submit your report
+ 
+Use the report template provided to guide formatting. Write in plain, professional language, using short headings and concise explanations. Your report should be:
+
+Written in plain, professional language
+Organized into clearly labeled sections
+No more than two pages in length
+Deliverable: Upload your completed two-page report as a Word or PDF file. Use the provided report template to guide layout and organization.
+
+Here are some resources to help you
+ 
